@@ -1,6 +1,8 @@
 # TradeCore
 
-A high-performance, concurrent trading server in Go that implements Grid Bots and Trailing Stop Loss strategies using real-time market data from Binance.
+The high-performance trading engine for [Luna_chat_V7](https://github.com/Bitwarelabscom/Luna_chat_v7).
+
+A concurrent trading server in Go that implements Grid Bots and Trailing Stop Loss strategies using real-time market data from Binance.
 
 ## Architecture
 
